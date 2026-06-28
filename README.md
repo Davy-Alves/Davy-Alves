@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-Me chamo Davy Alves 😎<br>-Idade: 20 anos 🎂<br>-Estudante de Engenharia da Computação na UFC 👨‍🎓<br>-Atualmente estudando tecnologias de front-end 👨‍💻<br>-Gamer nas horas vagas 🎮<br>-À procura de estágio 😁</p>
+<p align="left">-Me chamo Davy Alves<br>-Idade: 22 anos <br>-Estudante de Engenharia da Computação na UFC 👨‍🎓<br>-Desenvolvedor Front-end <br>-À procura de estágio</p>
 
 ###
 
